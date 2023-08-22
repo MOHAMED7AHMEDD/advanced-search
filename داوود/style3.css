@@ -1,0 +1,51 @@
+* {
+    background-color: white;
+}
+
+header {
+    width: 100%;
+    height:138px;
+}
+.Top{
+    width:100%;
+    height: 138px;
+}
+.pargraph{
+    width:100%;
+    height: 138px;
+}
+img{
+    padding:5px;
+    width: 200px;
+}
+.Top p{
+    font-size: 25px;
+    color: red;
+   margin-left: 80px;
+    margin-bottom: 5px;
+}
+.pargraph a{
+    padding:20px;
+    float: right;
+    height: 20px;
+    margin-bottom: 150px;
+
+} 
+a{
+    text-decoration: none;
+    color: black;
+}
+input{
+   width: 500px;
+    margin: 5px;
+    justify-content: right;
+    display: block;
+    
+    
+}
+button{
+    justify-content: center;
+    margin-left: 170px;
+    background-color: blue;
+    color: white;
+}
